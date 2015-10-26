@@ -80,6 +80,13 @@ nnoremap k gk
 
 inoremap jj <ESC>
 vnoremap jj <ESC>
+
+inoremap jk <ESC>
+vnoremap jk <ESC>
+
+inoremap kj <ESC>
+vnoremap kj <ESC>
+
 noremap <C-i> :NERDTreeToggle<CR>
 
 colorscheme monokai
