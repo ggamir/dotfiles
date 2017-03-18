@@ -10,6 +10,7 @@ set tabstop=4
 set shiftwidth=4
 set softtabstop=4
 set expandtab 
+set smarttab
 
 set encoding=utf-8
 set scrolloff=3
@@ -89,5 +90,6 @@ vnoremap kj <ESC>
 
 noremap <C-i> :NERDTreeToggle<CR>
 
-colorscheme monokai
 syntax enable
+set tabstop=4 shiftwidth=4 expandtab
+
