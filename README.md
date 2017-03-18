@@ -1,7 +1,7 @@
-#dotfiles#
+# dotfiles
 Just my dotfiles.
 
-##vimrc##
+## vimrc
 
 The .vimrc file implements a few suggestions that I found around online.
 
