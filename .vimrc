@@ -1,5 +1,5 @@
 filetype off
-execute pathogen#infect()
+"execute pathogen#infect()
 filetype plugin indent on
 
 set nocompatible
